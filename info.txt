@@ -1,0 +1,8 @@
+Put images to images folder (can be any size and any name, only png or jpg) (best 20+ img or wont run)
+run main.py
+see results in Results folder
+model is saving to Models folder
+in main folder will be created 3 img for monitoring learning will be change every literation
+1st - orginal img
+2nd - GAN image
+3rd - GAN image
